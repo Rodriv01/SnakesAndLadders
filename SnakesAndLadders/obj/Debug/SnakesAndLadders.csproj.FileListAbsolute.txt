@@ -1,0 +1,6 @@
+C:\Users\rodri\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\SnakesAndLadders.exe.config
+C:\Users\rodri\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\SnakesAndLadders.exe
+C:\Users\rodri\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\SnakesAndLadders.pdb
+C:\Users\rodri\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.exe
+C:\Users\rodri\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.pdb
